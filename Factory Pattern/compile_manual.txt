@@ -1,0 +1,4 @@
+compile by Cygwin on Window 10 PowerShell
+
+g++ main.cpp Rectangle.cpp Shape.cpp Square.cpp ShapeFactory.cpp -o test.exe
+ 
