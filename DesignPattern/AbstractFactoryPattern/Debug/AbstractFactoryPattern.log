@@ -1,0 +1,12 @@
+﻿  ShapeFactory2.cpp
+  Red.cpp
+  Green.cpp
+  FactoryProducer.cpp
+  Demo.cpp
+  ColorFactory.cpp
+  Color.cpp
+  Blue.cpp
+  AbstractFactory.cpp
+  Generating Code...
+  AbstractFactoryPattern.vcxproj -> C:\Users\mars_\OneDrive\Workspace\Cplusplus\DesignPattern\Debug\AbstractFactoryPattern.exe
+  AbstractFactoryPattern.vcxproj -> C:\Users\mars_\OneDrive\Workspace\Cplusplus\DesignPattern\Debug\AbstractFactoryPattern.pdb (Full PDB)
